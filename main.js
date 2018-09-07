@@ -59,3 +59,12 @@
 
 // const people2 = people.filter(person => person.id !== 2)
 // console.log(people2)
+
+// SPREAD  -  again as state is immutable u must make a copy of it ... spread lets you take the original data and add to it.  You can mix spread with filter
+
+// Destructuring
+// Classes
+// Subclasses
+
+// Moduels
+// create components in different files and import them in, need abel
